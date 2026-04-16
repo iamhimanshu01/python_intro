@@ -1,0 +1,7 @@
+this is my new line is used to write this in python.
+have a nice day.
+this is new line of code .
+bihar is most popular state in india.
+this file has been created using 'a'mode.
+ 'a' mode creates the files if not already existing.
+good bye
